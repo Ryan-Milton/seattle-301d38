@@ -1,0 +1,17 @@
+body {
+  max-width: 768px;
+  margin: 50px auto;
+}
+
+p, li {
+  text-align: center;
+}
+
+ul {
+  max-width: 484px;
+  margin: auto;
+}
+
+li {
+  float: left;
+}

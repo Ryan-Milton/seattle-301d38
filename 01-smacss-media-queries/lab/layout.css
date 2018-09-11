@@ -1,0 +1,36 @@
+#div1, #div2, #div3, #div4, #div9,  li {
+  background-color: lightgrey;
+  border: 1px solid grey;
+  margin: auto;
+}
+
+#div1 {
+  width: 480px;
+  height: 75px;
+}
+
+#div2 {
+  width: 480px;
+  height: 150px;
+}
+
+#div3 {
+  width: 480px;
+  height: 125px;
+}
+
+#div4 {
+  width: 480px;
+  height: 125px;
+}
+
+.inner {
+  width: 240px;
+  height: 250px;
+}
+
+#div9 {
+  clear: both;
+  width: 480px;
+  height: 80px;
+}
