@@ -34,3 +34,11 @@
   width: 480px;
   height: 80px;
 }
+
+@media only screen and (min-width: 980px) {
+  #div1, #div2, #div3, #div4, #div9,  li {
+    background-color: cyan;
+    border: 1px solid grey;
+    margin: auto;
+  }
+}
